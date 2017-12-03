@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Infiniti Roofing &amp; Exteriors</title>
+    <style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  overflow:hidden;
+  background-color:#dddddd;
+}
+li{
+  float:left;
+
+}
+li a {
+    display: block;
+    padding: 14px 73px;
+    background-color: #333;
+  color:white;
+  text-align:center;
+  text-decoration:none;
+}
+      li a:hover {
+    background-color: #111;
+}
+      
+      .active {
+    background-color: #641126;
+      }
+</style> </head>
+  <body>
+    <h1>
+      <center><img style="width: 405px; height: 405px;" longdesc="cp202a5_2.html"
+          alt="" src="logo%20%282%29.jpg"></center>
+    </h1>
+    <center>
+      <h1> <b>
+          <center>INFINITI ROOFING &amp; EXTERIORS</center>
+        </b></h1>
+      <h1> </h1>
+      <p> </p>
+      <ul>
+        <li><a href="cp202a5_2.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="pgallery.html">Project Gallery</a></li>
+        <li><a href="mtt.html">Meet The Team</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="reviews.html">Reviews</a></li>
+      </ul>
+      <h1>Exterior Specialists</h1>
+      <p>Our specialty is designing and building prestigious structures with a
+        keen eye </p>
+      <p>to the exterior elements on resident and commercial structures.</p>
+      <p>We offer the best quality materials and install it with the utmost
+        precision. </p>
+      <p>Resulting in great project and the most satisfied customers possible.</p>
+      <p><br>
+      </p>
+      <p>Contact us for your free quote today!</p>
+      <p><a href="file:///C:/Users/hzaid/Documents/CP202/a5/contact.html">Contact</a></p>
+      <ul>
+      </ul>
+    </center>
+    <p></p>
+  </body>
+</html>

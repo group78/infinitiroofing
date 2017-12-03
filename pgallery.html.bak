@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Infiniti Roofing &amp; Exteriors</title>
+    <style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  overflow:hidden;
+  background-color:#dddddd;
+}
+li{
+  float:left;
+
+}
+li a {
+    display: block;
+    padding: 14px 72px;
+    background-color: #333;
+  color:white;
+  text-align:center;
+  text-decoration:none;
+}
+      li a:hover {
+    background-color: #111;
+}
+      
+      .active {
+    background-color: #641126;
+      }
+</style> </head>
+  <body>
+    <h1>
+      <center><img style="width: 233px; height: 233px;" longdesc="cp202a5_2.html"
+          alt="" src="logo%20%282%29.jpg"></center>
+    </h1>
+    <center>
+      <h1> </h1>
+      <p> </p>
+      <ul>
+        <li><a href="cp202a5_2.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="pgallery.html">Project Gallery</a></li>
+        <li><a href="mtt.html">Meet The Team</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="reviews.html">Reviews</a></li>
+      </ul>
+      <h2>Project Gallery</h2>
+      <img style="width: 795px; height: 446px;" alt="" src="file:///C:/Users/hzaid/Documents/CP202/a5/20170507_085834.jpg"><br>
+      <img style="width: 792px; height: 444px;" alt="" src="file:///C:/Users/hzaid/Documents/CP202/a5/20170514_194254.jpg"><br>
+      <ul>
+      </ul>
+    </center>
+    <p></p>
+  </body>
+</html>
